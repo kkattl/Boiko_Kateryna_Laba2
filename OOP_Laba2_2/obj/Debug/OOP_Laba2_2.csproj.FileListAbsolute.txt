@@ -1,0 +1,8 @@
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\bin\Debug\OOP_Laba2_2.exe.config
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\bin\Debug\OOP_Laba2_2.exe
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\bin\Debug\OOP_Laba2_2.pdb
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\obj\Debug\OOP_Laba2_2.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\obj\Debug\OOP_Laba2_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\obj\Debug\OOP_Laba2_2.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\obj\Debug\OOP_Laba2_2.exe
+C:\Users\lukas\source\repos\OOP_Laba2\OOP_Laba2_2\obj\Debug\OOP_Laba2_2.pdb
